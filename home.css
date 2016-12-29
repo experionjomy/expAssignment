@@ -1,0 +1,40 @@
+body{
+	background-color:#aca095;
+}
+#head h2{
+	
+	width: 50%;
+	margin: auto;
+	padding: 15px 0 15px 40px;
+	float: left;
+
+	color: #efe9e5;
+	font-size: 40px;
+}
+#head{
+	width: 100%;
+	margin: auto;
+		background-color: #01295c;
+	float: left;
+
+}
+h3{
+	padding-left: 50px;
+}
+#head button{
+	float: right;
+	padding: 30px 60px 30px 60px;
+	border-style: none;
+
+}
+.image{
+		margin: 10px;
+		border:1px solid #A52A2A;
+		width: 20%;
+		display: inline-block;
+		margin-right: 50px;
+	}
+
+.image div{
+	padding-left: 60px;
+}
